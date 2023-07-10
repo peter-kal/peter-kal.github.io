@@ -1,11 +1,11 @@
 {
-    "name": "peterkalsite",
-    "short_name": "peterkalsite",
+    "name": "githubsite",
+    "short_name": "githubsite",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "An about site for Peter Kal.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
